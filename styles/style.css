@@ -1,0 +1,38 @@
+.entradaDatos {
+    overflow: hidden;
+    border:2px solid greenyellow;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    
+}
+.contenedor {
+    float:left;
+    background-color:#CBDFC5 ;
+    border-radius: 10px;
+    padding: 4%;
+    margin: 1%;;
+}
+
+.entradaDatos h1{
+    background-color: #3DA21D;
+}
+#contenedorResultado,#contenedorImc{
+    text-align: center;
+    font-size: 20px;
+    width: 33%;
+    height: 150px;
+}
+#contenedorPrincipal button {
+    background-color: #3DA21D;
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+
+}
+#contenedorPrincipal input{
+    display: inline-block;
+    width: 80px;
+}
